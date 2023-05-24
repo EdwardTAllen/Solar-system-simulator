@@ -29,3 +29,4 @@ To generate a plot of energy conservation run 'plotEnergy.py'
 GIT HUB LINK
 
 The main files can be found here:
+https://github.com/EdwardTAllen/Solar-system-simulator
